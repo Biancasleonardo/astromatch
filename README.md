@@ -1,7 +1,11 @@
 ### ASTROMATCH
 
 ### O que funciona
-- Todas as funcionalidades estão funcionando
+- É possível curtir ou não curtir o personagem
+- Existe um aviso de Match
+- Os personagens com Match são exibidos em uma nova lista
+- É possível limpar todas as listas de Matchs
+- Personagens consumidos de uma API
 
 ### O que não funciona
 - Não foi feito algumas animações
