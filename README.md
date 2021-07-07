@@ -7,9 +7,6 @@
 - É possível limpar todas as listas de Matchs
 - Personagens consumidos de uma API
 
-### O que não funciona
-- Não foi feito algumas animações
-
 ### Link Surge 
 http://fine-plough.surge.sh/
 
